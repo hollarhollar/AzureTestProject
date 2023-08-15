@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AzureTestProject(2)", "..\..\..\..\..\inetpub\wwwroot\AzureTestProject\", "{FB0177D9-7C3B-423A-9CA3-875DA12DF308}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54940"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\inetpub\wwwroot\AzureTestProject\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54940\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54940"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\inetpub\wwwroot\AzureTestProject\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54940\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54940"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB0177D9-7C3B-423A-9CA3-875DA12DF308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0177D9-7C3B-423A-9CA3-875DA12DF308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {877B8E8D-E66B-422E-B9E7-2E4084DB17F9}
+	EndGlobalSection
+EndGlobal
